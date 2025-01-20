@@ -3,6 +3,7 @@
 CLI based Chess game!
 
 
+Features
 - 현재 말이 위치한 칸을 입력해 움직일 말을 선택하고, 움직일 칸을 입력
 - 움직일 말을 선택하였을 때 선택한 말이 움직일 수 있는 칸들을 알려줌
 - White / Black 2가지의 Perspective 제공
@@ -30,6 +31,8 @@ Future Plan
 - GUI로 import
 
 
-Prototype(현재) 개발 기간: 25.01.12 ~ 25.01.15
+개발 History
+- Prototype(현재) : 25.01.12 ~ 25.01.15
+
 
 Last Update: 25.01.15
